@@ -56,13 +56,7 @@
 
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
- 
-
 ![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-
- 
-
 ![Antigravity](https://img.shields.io/badge/Antigravity-6D28D9?style=for-the-badge&logo=rocket&logoColor=white)
 
 ## 📊 GitHub Stats
