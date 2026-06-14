@@ -1,18 +1,50 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+# Hi, I'm Abdessalam Benkorichi 👋
 
-<h3 align="center">
-  Welcome to Abdessalam Benkorichi's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+### Software Engineer | Full Stack Developer
+### MERN • Next.js • Supabase • Convex
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+---
 
-- 🏢 I'm a Software Engineer
-- 👨‍💻 As a CS50 student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
+🚀 Full-stack developer with 3+ years of experience 
+building production-ready web & mobile applications 
+for E-Commerce, Medical, Islamic, and Construction industries.
+
+🌍 Open to opportunities in Saudi Arabia & Gulf region
+
+---
+
+## 🔨 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🛒 E-Commerce | Full shopping platform | MERN |
+| ☪️ Zad Al-Salama | Islamic mobile app | React Native |
+| 🐾 Veterinary Dashboard | Clinic management system | MERN |
+
+---
+
+## 🛠️ Tech Stack
+
+Frontend: React.js • Next.js • TypeScript • HTML • CSS  
+Backend: Node.js • Express.js  
+Database: MongoDB • Supabase  
+Mobile: React Native  
+Other: Convex • REST APIs • Git • Vercel • Render  
+
+---
+
+## 🤖 AI Tools
+Cursor • Claude AI • Antigravity
+
+---
+
+## 📫 Connect with Me
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdessalam_Benkorichi-blue?logo=linkedin)
+
+](https://linkedin.com/in/salamabenkorichi)
 
 
 ### Connect with Me :
