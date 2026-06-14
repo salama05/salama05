@@ -1,50 +1,137 @@
+<div align="center">
+
 # Hi, I'm Abdessalam Benkorichi 👋
 
 ### Software Engineer | Full Stack Developer
-### MERN • Next.js • Supabase • Convex
 
----
 
-🚀 Full-stack developer with 3+ years of experience 
-building production-ready web & mobile applications 
-for E-Commerce, Medical, Islamic, and Construction industries.
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+Supabase;Open+to+work+in+Gulf+%F0%9F%8C%8D)
+
+
 
 🌍 Open to opportunities in Saudi Arabia & Gulf region
 
+</div>
+
 ---
 
-## 🔨 Featured Projects
+## 🔨 Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 🛒 E-Commerce | Full shopping platform | MERN |
-| ☪️ Zad Al-Salama | Islamic mobile app | React Native |
-| 🐾 Veterinary Dashboard | Clinic management system | MERN |
+| 🛒 E-Commerce MERN | Full shopping platform with auth & cart | MERN |
+| ☪️ Zad Al-Salama | Islamic app — Quran, Prayer Times, Athkar | MERN • API |
+| 🐾 Veterinary Dashboard | Clinic management & inventory system | MERN |
+| 🏗️ Public Works Dashboard | Construction project management | TypeScript |
+| 🛒 Ecommerce ALM | E-Commerce platform | JavaScript |
+| 🌤️ Weather Dashboard | Real-time weather tracking app | TypeScript |
+| 🌸 Landing Page Purina | Product landing pages (Men & Women) | HTML • CSS |
 
 ---
 
 ## 🛠️ Tech Stack
 
-Frontend: React.js • Next.js • TypeScript • HTML • CSS  
-Backend: Node.js • Express.js  
-Database: MongoDB • Supabase  
-Mobile: React Native  
-Other: Convex • REST APIs • Git • Vercel • Render  
+
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+
+
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
+
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+
+
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+
+
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salama05&show_icons=true&theme=tokyonight&hide_border=true)
+
+
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salama05&layout=compact&theme=tokyonight&hide_border=true)
+
+
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=salama05&theme=tokyonight&hide_border=true)
+
+
+
+</div>
 
 ---
 
 ## 🤖 AI Tools
-Cursor • Claude AI • Antigravity
+
+
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+
+
+
+![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+
+
 
 ---
 
 ## 📫 Connect with Me
 
+<div align="center">
+
 [
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdessalam_Benkorichi-blue?logo=linkedin)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdessalam_Benkorichi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ](https://linkedin.com/in/salamabenkorichi)
+
+</div>
 
 
 ### Connect with Me :
