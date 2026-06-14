@@ -33,7 +33,6 @@
 ## 🛠️ Tech Stack
 
 
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
@@ -45,6 +44,11 @@
 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 
@@ -74,11 +78,37 @@
 
 
 
+![Convex](https://img.shields.io/badge/Convex-EE4B2B?style=for-the-badge&logo=convex&logoColor=white)
+
+
+
+
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+
+
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 
 ---
+
+## 🤖 AI Tools
+
+
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+
+
+
+![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+
+
+
+
+![Antigravity](https://img.shields.io/badge/Antigravity-6D28D9?style=for-the-badge&logo=rocket&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -105,19 +135,6 @@
 </div>
 
 ---
-
-## 🤖 AI Tools
-
-
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
-
-
-![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-
-
----
-
 
 ### Connect with Me :
 
