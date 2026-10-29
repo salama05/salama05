@@ -4,7 +4,7 @@
 
 ### AI Engineer | Full Stack Developer
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=520&lines=AI+Engineer;RAG+%7C+AI+Agents+%7C+MCP;Next.js+%7C+TypeScript+%7C+Supabase;Open+to+work+in+Gulf+%F0%9F%8C%8D)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=560&lines=AI+Engineer+with+a+Full-Stack+background;Building+production-style+AI+applications;RAG+%7C+AI+Agents+%7C+LangGraph;Next.js+%7C+TypeScript+%7C+Supabase)
 
 🌍 Open to opportunities in Saudi Arabia & Gulf region
 
